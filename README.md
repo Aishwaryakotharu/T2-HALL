@@ -120,7 +120,6 @@ This will help to ensure that room resources are used as fully-utilised as possi
 
 **In order to** find where a room is located, & view a floorplan with selected room easily identifiable.
 
-*
 **In order to** find a room that has enough chairs, *& be able to view room capacity.
 
 #### Business Unit Representative
@@ -152,11 +151,8 @@ We designed the application to be an intuitive and simple, yet powerful way to n
 #### Booking View
 ![Desktop | Booking View](docs/Desktop-BookingView.png)
 
-### Prototype
-[View prototype in Figma](https://www.figma.com/proto/M5AfR3iuOLO437LBDP1p9IXX/Room-Booking-System-Final?scaling=contain&node-id=13%3A966)
-## Development
-
-### Requirements
+### Development
+## Requirements
 [x] Backend - Node.js
 [x] Frontend - ReactJS
 [x] MongoDB and Mongoose
