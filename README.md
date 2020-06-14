@@ -179,6 +179,7 @@ We designed the application to be an intuitive and simple, yet powerful way to n
 - Validations
 - JWT
 - Working with dates and times
+- Deployment
 
 ## Future developments
 - Weekly and monthly views
